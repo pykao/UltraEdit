@@ -42,7 +42,7 @@ Our analysis further confirms the crucial role of real image anchors and region-
 **Setup:** 
 
 ```
-pip install -r requirements
+pip install -r requirements.txt
 
 cd diffusers && pip install -e .
 ```
